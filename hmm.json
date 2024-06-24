@@ -1,0 +1,86 @@
+{
+  "dependencies": [
+    {
+      "name": "lime",
+      "type": "git",
+      "dir": null,
+      "ref": "develop",
+      "url": "https://github.com/mcagabe19-stuff/lime"
+    },
+    {
+      "name": "openfl",
+      "type": "haxelib",
+      "version": "9.3.2"
+    },
+    {
+      "name": "flixel",
+      "type": "haxelib",
+      "version": "5.5.0"
+    },
+    {
+      "name": "flixel-addons",
+      "type": "haxelib",
+      "version": "3.2.1"
+    },
+    {
+      "name": "flixel-tools",
+      "type": "haxelib",
+      "version": "1.5.1"
+    },
+    {
+      "name": "hxcpp",
+      "type": "git",
+      "dir": null,
+      "ref": "master",
+      "url": "https://github.com/mcagabe19-stuff/hxcpp"
+    },
+    {
+      "name": "hxvlc",
+      "type": "haxelib",
+      "version": null
+    },
+    {
+      "name": "SScript",
+      "type": "git",
+      "dir": null,
+      "ref": "main",
+      "url": "https://github.com/PsychPorting/SScript-Base"
+    },
+    {
+      "name": "hxcpp-debug-server",
+      "type": "haxelib",
+      "version": null
+    },
+    {
+      "name": "tjson",
+      "type": "haxelib",
+      "version": "1.4.0"
+    },
+    {
+      "name": "hxdiscord_rpc",
+      "type": "haxelib",
+      "version": null
+    },
+    {
+      "name": "linc_luajit",
+      "type": "git",
+      "dir": null,
+      "ref": "main",
+      "url": "https://github.com/mcagabe19-stuff/linc_luajit-legacy.git"
+    },
+    {
+      "name": "flxanimate",
+      "type": "git",
+      "dir": null,
+      "ref": "dev",
+      "url": "https://github.com/ShadowMario/flxanimate.git"
+    },
+    {
+      "name": "extension-androidtools",
+      "type": "git",
+      "dir": null,
+      "ref": "SAF",
+      "url": "https://github.com/PsychPorting/extension-androidtools-Base.git"
+    }
+  ]
+}
