@@ -1,0 +1,40 @@
+{
+	"songs": [
+		[
+			"gram",
+			"gram",
+			[
+				66,
+				133,
+				60
+			]
+		],
+		[
+			"detonator",
+			"bomber",
+			[
+				80,
+				80,
+				80
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

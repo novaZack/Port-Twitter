@@ -1,0 +1,40 @@
+{
+	"songs": [
+		[
+			"anger",
+			"osoing",
+			[
+				0,
+				20,
+				53
+			]
+		],
+		[
+			"drew-the-line",
+			"female",
+			[
+				0,
+				20,
+				53
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "Twitter.com",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
